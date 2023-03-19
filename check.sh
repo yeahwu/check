@@ -231,9 +231,9 @@ function UnlockChatGPTTest() {
 
 
 function StreamingMediaUnlockTest(){
-    Install_oth
-    clear
-    About
+    	Install_oth
+    	clear
+    	About
 	UnlockNetflixTest
 	UnlockYouTubePremiumTest
 	YouTubeCDNTest
