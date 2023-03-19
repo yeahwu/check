@@ -8,7 +8,7 @@ PLAIN='\033[0m'
 BrowserUA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36"
 
 function Next() {
-    printf "%-70s\n" "-" | sed 's/\s/-/g'
+    printf "%-60s\n" "-" | sed 's/\s/-/g'
 }
 
 function About() {
