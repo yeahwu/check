@@ -208,7 +208,6 @@ function StreamingMediaUnlockTest(){
     	About
 	UnlockNetflixTest
 	UnlockYouTubePremiumTest
-	YouTubeCDNTest
 	UnlockBilibiliTest
 	UnlockTiktokTest
 	UnlockiQiyiIntlTest
